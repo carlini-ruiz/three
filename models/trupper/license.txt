@@ -1,0 +1,11 @@
+Model Information:
+* title:	Clone Trooper Phase 2 "Shiny" (Updated)
+* source:	https://sketchfab.com/3d-models/clone-trooper-phase-2-shiny-updated-a5827ffa5b224a118a1103ad450d76e5
+* author:	Marr Velz (https://sketchfab.com/marr_velz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Clone Trooper Phase 2 "Shiny" (Updated)" (https://sketchfab.com/3d-models/clone-trooper-phase-2-shiny-updated-a5827ffa5b224a118a1103ad450d76e5) by Marr Velz (https://sketchfab.com/marr_velz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
